@@ -5,3 +5,5 @@ public class SmokeTest {
         return "Red@".length() > 0;
     }
 }
+
+// Red@ validation branch coverage
